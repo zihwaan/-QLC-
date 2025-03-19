@@ -109,6 +109,12 @@
 
 [1] Data Pattern & Memory Variation Aware Fine-Grained ECC Optimized by Neural Network for 3D-TLC NAND Flash Memories with 2.0x Data-Retention Time Extension and 30% Parity Overhead Reduction.
 (2019). Proceedings of the 2019 IEEE 11th International Memory Workshop (IMW), May 2019. DOI: 10.1109/IMW.2019.8739730.
+
+
 [2] 이형간, 김성래, 이명규, 공준진, 신동준. (2012). 멀티 레벨 셀 NAND 플래시 메모리의 셀 간 간섭 영향을 감소시키기 위한 문턱 전압 제어 방법. 한국통신학회 종합 학술 발표회 논문집 (추계), 2012, 79-80.
+
+
 [3] 정우석. (2012). Non-Volatile Memory의 신뢰성 향상을 위한 데이터 Randomization 알고리즘. 충북대학교 정보통신공학전공 통신회로 및 시스템 국내석사 학위논문.
+
+
 [4] He, R .; Hu, H .; Xiong, C .; Han, G. (2021). "Artificial Neural Network Assisted Error Correction for MLC NAND Flash Memory". Micromachines, 12(8), 879.
